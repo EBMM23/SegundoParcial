@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "RankingNumber/1.0.0": {
+        "dependencies": {
+          "Application": "1.0.0",
+          "TestData": "1.0.0"
+        },
+        "runtime": {
+          "RankingNumber.dll": {}
+        }
+      },
+      "Application/1.0.0": {
+        "runtime": {
+          "Application.dll": {}
+        }
+      },
+      "TestData/1.0.0": {
+        "runtime": {
+          "TestData.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RankingNumber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
